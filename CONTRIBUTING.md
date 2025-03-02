@@ -81,14 +81,3 @@ By contributing, you agree to license your work under the [MIT License](LICENSE)
 ---
 
 **Thank you for making this project awesome!** 🚀
-```
-
----
-
-### Key Features:
-1. Clear instructions for adding new languages.  
-2. Templates for code and README files.  
-3. Guidelines for maintaining consistency.  
-4. Friendly tone to encourage participation.  
-
-Let me know if you’d like to add a **code of conduct** or adjust the structure!
