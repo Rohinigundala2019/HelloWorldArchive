@@ -26,7 +26,7 @@ gcc --version
 ## 2. How to Run
 1. **Compile the Program**:
    ```bash
-   gcc hello-world.c -o hello.out
+   gcc HelloWorld.c -o hello.out
    ```
 2. **Execute the Binary**:
    ```bash

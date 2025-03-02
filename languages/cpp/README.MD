@@ -26,7 +26,7 @@ g++ --version
 ## 2. How to Run
 1. **Compile the Program**:
    ```bash
-   g++ hello-world.cpp -o hello
+   g++ HelloWorld.cpp -o hello
    ```
 2. **Execute the Binary**:
    ```bash
