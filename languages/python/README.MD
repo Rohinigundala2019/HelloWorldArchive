@@ -8,7 +8,8 @@
     ```
 
 ## 2. How to Run  
-For Python 3:  
+For Python 3:
+
     ```bash
     python hello-world.py
     ```
