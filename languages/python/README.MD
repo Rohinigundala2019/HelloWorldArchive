@@ -8,13 +8,9 @@
     ```
 
 ## 2. How to Run  
-For Python 3:
+For Python 3:  
     ```bash
-    python hello_v3.py
-    ```
-For Python 2 (legacy):
-    ```bash
-    python hello_v2.py
+    python hello-world.py
     ```
 
 ## 3. Output
