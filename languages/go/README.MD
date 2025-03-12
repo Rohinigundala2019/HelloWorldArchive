@@ -9,7 +9,7 @@
 
 ## 2. How to Run 
 ```sh 
-go run hello.go
+go run HelloWorld.go
 ```
 
 
