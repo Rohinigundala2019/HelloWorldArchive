@@ -11,6 +11,7 @@ A community-driven collection of "Hello, World!" programs in **every programming
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Project Maintainers & Contributors](project-maintainers-&-contributors)
 
 ---
 
@@ -67,5 +68,14 @@ This project is licensed under the [MIT License](LICENSE).
 Thank you to all [contributors](https://github.com/anveshmuppeda/HelloWorldArchive/graphs/contributors) for making this repository a global resource! 🎉
 
 ---
+
+## Project Maintainers & Contributors  
+<table>
+  <tr>
+    <td align="center"><a href="https://anveshmuppeda.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Anvesh Muppeda</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sandeepallakonda"><img src="https://avatars.githubusercontent.com/u/118200403?v=4" width="100px;" alt=""/><br /><sub><b>Sandeep Allakonda</b></sub></a></td> 
+  </tr>
+</table>  
+
 
 **Let’s code the world together!** 💻🌍
