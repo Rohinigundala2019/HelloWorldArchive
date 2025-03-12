@@ -12,7 +12,7 @@ A community-driven collection of "Hello, World!" programs in **every programming
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [Project Maintainers & Contributors](project-maintainers-&-contributors)
+- [Project Maintainers & Contributors](#project-maintainers-&-contributors)
 
 ---
 
