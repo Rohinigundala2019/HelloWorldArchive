@@ -42,6 +42,7 @@ A community-driven collection of "Hello, World!" programs in **every programming
 | R             | [r/](/languages/r)                   | R 4.3.1+      | `Rscript HelloWorld.R`                            |
 | TypeScript    | [typescript/](/languages/typescript) | 5.0+          | `tsc HelloWorld.ts && node HelloWorld.js`         |
 | Go (Golang)   | [go/](/languages/go)                 | 1.16+         |  `go run HelloWorld.go`                           |
+| HTML          | [html/](/languages/html)             | HTML5         | `Open HelloWorld.html in a web browser`           |
 | **[...50+ more!](languages/)** | | | |
 
 **Missing a language?** [Add it!](#contributing)
