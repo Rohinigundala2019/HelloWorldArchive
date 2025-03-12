@@ -1,3 +1,4 @@
+
 # Hello World in Every Programming Language 🌐
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -31,15 +32,16 @@ A community-driven collection of "Hello, World!" programs in **every programming
 
 ## Languages
 
-| Language      | File/Folder                          | Version       | Run Command                          |
-|---------------|--------------------------------------|---------------|--------------------------------------|
-| Python        | [python/](/languages/python)         | 3.10+         | `python hello_v3.py`                 |
-| C             | [c/](/languages/c)                   | C17           | `gcc hello.c -o hello && ./hello`    |
-| C++           | [cpp/](/languages/cpp)               | C++17         | `g++ hello.cpp -o hello && ./hello`  |
-| Java          | [java/](/languages/java)             | JDK 17+       | `javac HelloWorld.java && java HelloWorld` |
-| JavaScript    | [javascript/](/languages/javascript) | Node.js 18+   | `node hello.js`                      |
-| R             | [r/](/languages/r)                   | R 4.3.1+      | `Rscript hello.R`                    |
-| TypeScript    | [typescript/](/languages/typescript) | 5.0+          | `tsc hello.ts && node hello.js`      |
+| Language      | File/Folder                          | Version       | Run Command                                       |
+|---------------|--------------------------------------|---------------|---------------------------------------------------|
+| Python        | [python/](/languages/python)         | 3.10+         | `python HelloWorld_v3.py`                         |
+| C             | [c/](/languages/c)                   | C17           | `gcc HelloWorld.c -o HelloWorld && ./HelloWorld`  |
+| C++           | [cpp/](/languages/cpp)               | C++17         | `g++ HelloWorld.cpp -o HelloWorld && ./HelloWorld`|
+| Java          | [java/](/languages/java)             | JDK 17+       | `javac HelloWorld.java && java HelloWorld`        |
+| JavaScript    | [javascript/](/languages/javascript) | Node.js 18+   | `node HelloWorld.js`                              |
+| R             | [r/](/languages/r)                   | R 4.3.1+      | `Rscript HelloWorld.R`                            |
+| TypeScript    | [typescript/](/languages/typescript) | 5.0+          | `tsc HelloWorld.ts && node HelloWorld.js`         |
+| Go (Golang)   | [go/](/languages/go)                 | 1.16+         |  `go run HelloWorld.go`                           |
 | **[...50+ more!](languages/)** | | | |
 
 **Missing a language?** [Add it!](#contributing)
