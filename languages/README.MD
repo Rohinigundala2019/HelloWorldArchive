@@ -8,3 +8,4 @@
 | Java              | [java/](/languages/java)             | Sun Microsystems  |       1995          |          Robust 🔥           |
 | JavaScript        | [javascript/](/languages/javascript) | Brenden Eich      |       1995          |          Interactive 🎯      |
 | R                 | [r/](/languages/r)                   | Robert Gentleman  |       1993          |          Analytical 📊       |
+| TypeScript        | [typescript/](/languages/typescript) | Anders Hejlsberg  |       2012          |          Superset 💡         |
