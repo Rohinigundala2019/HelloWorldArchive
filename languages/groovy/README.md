@@ -25,7 +25,7 @@ java -version
     - Open Environment Variables as described above.
     - Add a new _System_ variable:
         - Variable name: *_GROOVY_HOME_*
-        - Variable value: Path to your Groovy installation (e.g., C:\groovy\groovy-4.0.0).
+        - Variable value: Path to your Groovy installation (e.g., C:\groovy\groovy-4.0.26).
     - Edit the _Path_ variable and add *_%GROOVY_HOME%\bin_*.
 - Verify Groovy installation:
 ```bash
