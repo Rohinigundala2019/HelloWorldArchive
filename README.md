@@ -41,9 +41,15 @@ A community-driven collection of "Hello, World!" programs in **every programming
 | JavaScript    | [javascript/](/languages/javascript) | Node.js 18+   | `node HelloWorld.js`                              |
 | R             | [r/](/languages/r)                   | R 4.3.1+      | `Rscript HelloWorld.R`                            |
 | TypeScript    | [typescript/](/languages/typescript) | 5.0+          | `tsc HelloWorld.ts && node HelloWorld.js`         |
-| Go (Golang)   | [go/](/languages/go)                 | 1.16+         |  `go run HelloWorld.go`                           |
+| Go (Golang)   | [go/](/languages/go)                 | 1.16+         | `go run HelloWorld.go`                            |
 | HTML          | [html/](/languages/html)             | HTML5         | `Open HelloWorld.html in a web browser`           |
-| COBOL          | [cobol/](/languages/cobol)             | cobc (GnuCOBOL) 3.2.0         | `cobc -x HelloWorld.cob -o HelloWorld && ./HelloWorld`           |
+| COBOL         | [cobol/](/languages/cobol)           | cobc (GnuCOBOL) 3.2.0 | `cobc -x HelloWorld.cob -o HelloWorld && ./HelloWorld` |
+| Perl          | [perl/](/languages/perl)             | 5.36+         | `perl HelloWorld.pl`                              |
+| PHP           | [php/](/languages/php)               | 8.1+          | `php HelloWorld.php`                              |
+| Ruby          | [ruby/](/languages/ruby)             | 3.1+          | `ruby HelloWorld.rb`                              |
+| Rust          | [rust/](/languages/rust)             | 1.65+         | `rustc HelloWorld.rs && ./HelloWorld`             |
+| Shell Script  | [shell/](/languages/shell-script)           | Bash 5.1+     | `bash HelloWorld.sh`                              |
+| Swift         | [swift/](/languages/swift)           | 5.7+          | `swift HelloWorld.swift`                          |
 | **[...50+ more!](languages/)** | | | |
 
 **Missing a language?** [Add it!](#contributing)
@@ -76,6 +82,7 @@ Thank you to all [contributors](https://github.com/anveshmuppeda/HelloWorldArchi
 ## Project Maintainers and Contributors  
 <table>
   <tr>
+    <td align="center"><a href="https://saimanasak.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/47205414?v=4" width="100px;" alt=""/><br /><sub><b>Sai Manasa</b></sub></a></td>
     <td align="center"><a href="https://anveshmuppeda.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Anvesh Muppeda</b></sub></a></td>
     <td align="center"><a href="https://github.com/sandeepallakonda"><img src="https://avatars.githubusercontent.com/u/118200403?v=4" width="100px;" alt=""/><br /><sub><b>Sandeep Allakonda</b></sub></a></td> 
   </tr>
