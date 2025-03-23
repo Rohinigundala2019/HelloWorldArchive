@@ -82,7 +82,7 @@ Thank you to all [contributors](https://github.com/anveshmuppeda/HelloWorldArchi
 ## Project Maintainers and Contributors  
 <table>
   <tr>
-    <td align="center"><a href="https://saimanasak.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Sai Manasa</b></sub></a></td>
+    <td align="center"><a href="https://saimanasak.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/47205414?v=4" width="100px;" alt=""/><br /><sub><b>Sai Manasa</b></sub></a></td>
     <td align="center"><a href="https://anveshmuppeda.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Anvesh Muppeda</b></sub></a></td>
     <td align="center"><a href="https://github.com/sandeepallakonda"><img src="https://avatars.githubusercontent.com/u/118200403?v=4" width="100px;" alt=""/><br /><sub><b>Sandeep Allakonda</b></sub></a></td> 
   </tr>
