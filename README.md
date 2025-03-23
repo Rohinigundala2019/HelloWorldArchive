@@ -48,8 +48,9 @@ A community-driven collection of "Hello, World!" programs in **every programming
 | PHP           | [php/](/languages/php)               | 8.1+          | `php HelloWorld.php`                              |
 | Ruby          | [ruby/](/languages/ruby)             | 3.1+          | `ruby HelloWorld.rb`                              |
 | Rust          | [rust/](/languages/rust)             | 1.65+         | `rustc HelloWorld.rs && ./HelloWorld`             |
-| Shell Script  | [shell/](/languages/shell-script)           | Bash 5.1+     | `bash HelloWorld.sh`                              |
+| Shell Script  | [shell/](/languages/shell-script)    | Bash 5.1+     | `bash HelloWorld.sh`                              |
 | Swift         | [swift/](/languages/swift)           | 5.7+          | `swift HelloWorld.swift`                          |
+| Groovy        | [groovy/](/languages/groovy)         | 4.0+          | `groovy HelloWorld.groovy`                        |
 | **[...50+ more!](languages/)** | | | |
 
 **Missing a language?** [Add it!](#contributing)
