@@ -17,3 +17,4 @@
 | Shell Script      | [shell/](/languages/shell-script)    | Various           |       1970s         |          Automate 🏗️         |
 | Swift             | [swift/](/languages/swift)           | Apple Inc.        |       2014          |          Modern 🍏           |
 | Groovy            | [groovy/](/languages/groovy)         | James Strachan    |       2003          |          Agile 🎭            |
+| Kotlin            | [kotlin/](/languages/kotlin)         | JetBrains         |       2011          |          Concise ✨          |
