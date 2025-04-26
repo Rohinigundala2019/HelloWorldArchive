@@ -52,6 +52,8 @@ A community-driven collection of "Hello, World!" programs in **every programming
 | Swift         | [swift/](/languages/swift)           | 5.7+          | `swift HelloWorld.swift`                          |
 | Groovy        | [groovy/](/languages/groovy)         | 4.0+          | `groovy HelloWorld.groovy`                        |
 | Kotlin        | [kotlin/](/languages/kotlin)         | 1.7+          | `kotlinc HelloWorld.kt -include-runtime -d HelloWorld.jar && java -jar HelloWorld.jar` |
+| Dart          | [dart/](/languages/dart)             | 3.0+          | `dart run HelloWorld.dart`                        |
+| Scala         | [scala/](/languages/scala)           | 3.3+          | `scala HelloWorld.scala`                          |
 
 
 | **[...50+ more!](languages/)** | | | |
