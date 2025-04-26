@@ -18,3 +18,9 @@
 | Swift             | [swift/](/languages/swift)           | Apple Inc.        |       2014          |          Modern 🍏           |
 | Groovy            | [groovy/](/languages/groovy)         | James Strachan    |       2003          |          Agile 🎭            |
 | Kotlin            | [kotlin/](/languages/kotlin)         | JetBrains         |       2011          |          Concise ✨          |
+| Dart              | [Dart/](/languages/Dart)             | Lars Bak and 
+                                                             Kasper Lund       |       2011          |          Optimized 💡        |
+| Scala             | [Scala/](/languages/Scala)           | Martin Odersky    |       2004          |          Functional 🦪       |
+
+
+
