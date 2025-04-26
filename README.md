@@ -51,6 +51,11 @@ A community-driven collection of "Hello, World!" programs in **every programming
 | Shell Script  | [shell/](/languages/shell-script)    | Bash 5.1+     | `bash HelloWorld.sh`                              |
 | Swift         | [swift/](/languages/swift)           | 5.7+          | `swift HelloWorld.swift`                          |
 | Groovy        | [groovy/](/languages/groovy)         | 4.0+          | `groovy HelloWorld.groovy`                        |
+| Kotlin        | [kotlin/](/languages/kotlin)         | 1.7+          | `kotlinc HelloWorld.kt -include-runtime -d HelloWorld.jar && java -jar HelloWorld.jar` |
+| Dart          | [dart/](/languages/dart)             | 3.0+          | `dart run HelloWorld.dart`                        |
+| Scala         | [scala/](/languages/scala)           | 3.3+          | `scala HelloWorld.scala`                          |
+
+
 | **[...50+ more!](languages/)** | | | |
 
 **Missing a language?** [Add it!](#contributing)
@@ -85,7 +90,8 @@ Thank you to all [contributors](https://github.com/anveshmuppeda/HelloWorldArchi
   <tr>
     <td align="center"><a href="https://saimanasak.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/47205414?v=4" width="100px;" alt=""/><br /><sub><b>Sai Manasa</b></sub></a></td>
     <td align="center"><a href="https://anveshmuppeda.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Anvesh Muppeda</b></sub></a></td>
-    <td align="center"><a href="https://github.com/sandeepallakonda"><img src="https://avatars.githubusercontent.com/u/118200403?v=4" width="100px;" alt=""/><br /><sub><b>Sandeep Allakonda</b></sub></a></td> 
+    <td align="center"><a href="https://github.com/sandeepallakonda"><img src="https://avatars.githubusercontent.com/u/118200403?v=4" width="100px;" alt=""/><br /><sub><b>Sandeep Allakonda</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Rohinigundala2019"><img src="https://avatars.githubusercontent.com/u/181216819?v=4" width="100px;" alt=""/><br /><sub><b>Rohini Gundala</b></sub></a></td> 
   </tr>
 </table>  
 
