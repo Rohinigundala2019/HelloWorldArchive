@@ -5,14 +5,14 @@
 
 ## Hello World
 
-###Prerequisites for running Scala 
+### Prerequisites for running Scala 
 
-###(Traditional Setup)
+### (Traditional Setup)
 
 - Scala runs on the JVM, so you must have Java installed.
 - Scala Compiler and REPL (scalac and scala) 
 
-###(Modern Setup)
+### (Modern Setup)
 
 - Using Scala CLI
 -  No manual JDK or Scala installation needed — it(Scalacli) does it all for you.

@@ -1,4 +1,4 @@
-#Dart
+##Dart
 
 
 - Dart is an open-source, general-purpose programming language designed for building cross-platform applications, particularly for mobile, web, and server-side development
@@ -15,7 +15,7 @@ dart --version
 ```
 - You can use VS Code or IntelliJ IDEA with Dart plugins:
 
-- For VS Code, you can install the [Install Dart] (https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code).
+- For VS Code, you can install the [Install Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code).
 
 - For IntelliJ IDEA, the Dart plugin is available as part of the IDE. 
 
